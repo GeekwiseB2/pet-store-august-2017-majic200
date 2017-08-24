@@ -1,3 +1,15 @@
+/* Header Styles */
+
+.logo-img {
+  width: 90px;
+  display:inline-block;
+}
+
+.logo-text {
+  font-family: 'Satisfy',cursive;
+  color: #F37972; /* Base Orange */
+  display: inline-block;
+}
 
 /* Hero Styles */
 
