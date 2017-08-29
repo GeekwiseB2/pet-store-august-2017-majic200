@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+
 /* Header Styles */
 
 .logo-img {
@@ -11,11 +13,17 @@
   display: inline-block;
 }
 
+.flex {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
 /* Hero Styles */
 
 .hero {
   background-image: url('../img/hero.jpg');
-  height: 350px;
+  height: 500px;
   background-position: center;
   background-size: cover;
   padding-top: 40px;
@@ -27,5 +35,13 @@
 
 .hero .white-text {
   font-size: 2em;
-
 }
+
+/* Featured Section Styles */
+
+.thumbnail {
+  padding: 8px 12px;
+  background-color: #EDF1F4; /*light grey*/
+}
+
+/* Services Section */
