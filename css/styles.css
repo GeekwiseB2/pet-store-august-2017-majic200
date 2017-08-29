@@ -45,3 +45,35 @@
 }
 
 /* Services Section */
+
+/*footer*/
+footer {
+    background-color: #231f20;
+    padding-top: 20px;
+}
+
+footer a {
+	color: #bfc0c1;
+}
+
+footer img {
+    height: 90px;
+}
+
+.contact-info {
+    padding-top: 15px;
+    padding-left: 40px;
+    border-right: 1px solid #333;
+    border-left: 1px solid #333;
+}
+
+.social {
+	padding-top: 15px;
+}
+
+footer .fine-print {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    color: #505050;
+}
+/*end footer*/
